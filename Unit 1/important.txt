@@ -1,0 +1,7 @@
+# Crate API document
+
+python3 -m pydoc -w Sample
+where as sample is the name of the Sample,pydoc
+
+
+python3 -m pydoc -w M1_OtherFunctions
