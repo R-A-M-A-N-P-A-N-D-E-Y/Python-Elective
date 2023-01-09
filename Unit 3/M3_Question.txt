@@ -1,0 +1,3 @@
+Q1. WAP to find first 2 lines from a file.
+Q1. WAP to find last 3 lines from a file.
+Q3. WAP to find the longest words in a line.
